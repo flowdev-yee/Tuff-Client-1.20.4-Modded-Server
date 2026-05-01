@@ -1,2 +1,0 @@
-#standard eula for mc
-eula=true
