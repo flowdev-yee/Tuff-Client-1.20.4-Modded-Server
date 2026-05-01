@@ -20,12 +20,13 @@ This server architecture combines multiple systems to achieve cross-version and 
 
 ## Features
 
-- Full **1.20.4 Minecraft server experience**
+- **1.20.4 Minecraft server experience**
 - Browser-compatible multiplayer via Tuff/Eagler clients
 - Cross-version support using translation layers
 - Mod support via PolyMc (limited compatibility)
 - Optimized server performance using Lithium
 - Proxy-based architecture for scalability
+- Modern actions like 1.13+ swimming
 
 ---
 
