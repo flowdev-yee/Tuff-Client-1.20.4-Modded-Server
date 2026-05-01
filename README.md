@@ -90,9 +90,10 @@ https://test.tuffis.online
 - Fabric — Fabric server and modding platform  
 - Velocity — Proxy and routing layer  
 - ViaVersion / ViaBackwards — Protocol translation system  
-- PolyMc — Cross-version content mapping  
+- PolyMc — Mapping client-sided mods to server-side.  
 - Lithium — Server performance optimization  
-- EaglerXVelocity — Browser client integration layer 
+- EaglerXVelocity — Browser client integration layer
+- Polymer — Library for server-side mods with client-side style features.
 
 ---
 
