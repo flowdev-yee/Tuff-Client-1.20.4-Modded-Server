@@ -2,6 +2,8 @@
 
 You can join this server on Tuff Client and experience all the modern features!
 
+You can also put mods in the mods folder in the server directory. Note that not all mods will work!
+
 How to host:
 Make codespace
 Make a new terminal
