@@ -92,8 +92,7 @@ https://test.tuffis.online
 - ViaVersion / ViaBackwards — Protocol translation system  
 - PolyMc — Cross-version content mapping  
 - Lithium — Server performance optimization  
-- EaglerXVelocity — Browser client integration layer  
-- TuffNetwork — TuffX+ compatibility enhancements  
+- EaglerXVelocity — Browser client integration layer 
 
 ---
 
