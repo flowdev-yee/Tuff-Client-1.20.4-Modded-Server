@@ -93,7 +93,6 @@ https://test.tuffis.online
 - PolyMc — Mapping client-sided mods to server-side.  
 - Lithium — Server performance optimization  
 - EaglerXVelocity — Browser client integration layer
-- Polymer — Library for server-side mods with client-side style features.
 
 ---
 
