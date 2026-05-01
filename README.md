@@ -17,4 +17,4 @@ Copy the wss:// address
 Join it in Tuff Client
 Enjoy!
 
-You can play Tuff Client (untested) at: https://test.tuffis.online
+You can play Tuff Client at: https://test.tuffis.online
