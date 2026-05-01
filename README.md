@@ -64,7 +64,7 @@ This project uses a multi-layer system:
    `cd velocity && java -jar velocity.jar`
 7. Wait until the proxy fully initializes  
 8. Set port **8081** to Public visibility in Codespaces  
-9. Copy the generated `wss://` WebSocket URL from port 8081  
+9. Copy the generated `wss://` WebSocket URL from the site on port 8081  
 10. Connect using **Tuff Client**
 
 ---
