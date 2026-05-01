@@ -16,3 +16,5 @@ Press on the globe next to 8081 when hovering over it
 Copy the wss:// address
 Join it in Tuff Client
 Enjoy!
+
+You can play Tuff Client (untested) at: https://test.tuffis.online
