@@ -1,7 +1,3 @@
-THESE ARE FOR POLYMER, NOT POLYMC.
-POLYMER HAS NOT BEEN ADDED YET.
-I AM JUST ADDING THIS TO PRE-ADD IT.
-
 # Mods using Polymer
 A list of server-side Fabric or Quilt mods using Polymer, ordered alphabetically.  
 *Some mods work best with Polymer's auto-generated resource pack: `/polymer generate-packs`*
