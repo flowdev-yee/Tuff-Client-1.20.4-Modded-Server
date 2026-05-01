@@ -26,7 +26,7 @@ This server architecture combines multiple systems to achieve cross-version and 
 - Mod support via PolyMc (limited compatibility)
 - Optimized server performance using Lithium
 - Proxy-based architecture for scalability
-- Modern actions like 1.13+ swimming
+- Supports modern gameplay mechanics (including post-1.13 movement such as swimming), with behavior translation handled by TuffX+ for compatibility with Eagler/Tuff clients.
 
 ---
 
