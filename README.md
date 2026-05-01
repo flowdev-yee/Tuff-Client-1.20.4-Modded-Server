@@ -1,4 +1,4 @@
-#Eaglercraft (Tuff Client) 1.20.4 Modded Server
+Eaglercraft (Tuff Client) 1.20.4 Modded Server
 
 You can join this server on Tuff Client and experience all the modern features!
 
